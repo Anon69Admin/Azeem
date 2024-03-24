@@ -5,8 +5,8 @@ Sharkc2p is a powerful testing tool designed to simulate high volumes of traffic
 ## Building
 
 ```bash
-git clone https://github.com/DDoS-Leaks/Sharkc2p
-cd Sharkc2p
+git clone https://github.com/Anon69Admin/Azeem.git
+cd Azeem
 make
 ```
 
@@ -18,7 +18,7 @@ make
 Press Ctrl+C to stop Spurt.
 
 ## Note
-
-Please note that the primary purpose of sharkc2p is to assess the performance and robustness of web servers under controlled conditions. It is not intended for malicious use or to facilitate any form of Denial of Service (DoS) attack. Unauthorized or inappropriate usage of this tool is strictly prohibited and may have legal consequences.
-
+HEY! THIS TOOL IS CREATED BY @FAZALEAZEEM SO DONT FUCK YOUR SISTER AND COPY THIS TOOL THIS TOOL IS UPDATED VERSION OF (SHARKC2P) SO FIRST TAKE PERMISSION BEFORE COPY THIS 
 Additionally, it's important to consider the potential impact on your internet connection while running sharkc2p. The tool generates a substantial amount of traffic, which may temporarily slow down your internet connection.
+
+
